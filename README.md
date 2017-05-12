@@ -1,0 +1,2 @@
+# Typecho
+Typecho博客

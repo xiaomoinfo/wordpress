@@ -39,7 +39,7 @@
 <script>
     function show_date_time() {
         window.setTimeout("show_date_time()", 1000);
-        BirthDay = new Date("12/12/2016 00:00:01");
+        BirthDay = new Date("06/06/2016 00:00:01");
         today = new Date();
         //总时间
         timeold = (today.getTime() - BirthDay.getTime());
